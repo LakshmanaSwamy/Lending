@@ -4,9 +4,12 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGray">#D8D6D8</color>
     <color name="colorLoginBackground">#26AE90</color>
     <color name="colorLoginGray">#ECEEF1</color>
     <color name="colorSignupBg">#3C7B8A</color>
     <color name="colorRegBtn">#005795</color>
     <color name="colorDarkPink">#E5185F</color>
+    <color name="colorBlack">#000000</color>
+
 </resources>

@@ -18,7 +18,7 @@
         android:id="@+id/userName"
         android:background="@color/colorWhite"
         android:layout_gravity="right"
-        android:text="meenakshi"
+        android:text="meenakshiveera20@gmail.com"
         android:layout_marginTop="100dp"
         android:paddingLeft="10dp"
         android:hint="UserName"
@@ -32,7 +32,7 @@
         android:background="@color/colorWhite"
         android:layout_marginTop="5dp"
         android:paddingLeft="10dp"
-        android:text="12345"
+        android:text="chinni143"
         android:hint="Password"
         android:id="@+id/password" />
     <Spinner
@@ -56,7 +56,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/colorLoginBackground"
-        android:text="Not a Member? SignUp Now"
+        android:text="Customer Details"
         android:id="@+id/signUp"
         android:layout_gravity="center_horizontal"
         android:textColor="#FFFFFF"

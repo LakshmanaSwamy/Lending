@@ -3,7 +3,6 @@
     <string name="title_activity_sign_up">SignUpActivity</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
-
         "A material metaphor is the unifying theory of a rationalized space and a system of motion."
         "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
         "technologically advanced and open to imagination and magic.\n"
@@ -91,8 +90,37 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="SIGN_IN_URL">http://meenakshi.cloud.cms500.com/meenakshi/signin</string>
+    <string name="SIGN_UP_URL">http://meenakshi.cloud.cms500.com/meenakshi/signup</string>
+    <string name="UPDATE_USER">http://meenakshi.cloud.cms500.com/meenakshi/updateUser</string>
+    <string name="LOAN_DETAILS">http://meenakshi.cloud.cms500.com/meenakshi/loandetails</string>
+    <string name="SAVE_CONTACT">http://meenakshi.cloud.cms500.com/meenakshi/contactSave</string>
+    <!--<string name="SIGN_IN_URL">http://192.168.100.125:8099/Laxman/meenakshi/signin</string>-->
+    <!--<string name="SIGN_UP_URL">http://192.168.100.125:8099/Laxman/meenakshi/signup</string>-->
+    <!--<string name="UPDATE_USER">http://192.168.100.125:8099/Laxman/meenakshi/updateUser</string>-->
+    <!--<string name="LOAN_DETAILS">http://192.168.100.125:8099/Laxman/meenakshi/loandetails</string>-->
+    <!--<string name="SAVE_CONTACT">http://192.168.100.125:8099/Laxman/meenakshi/contactSave</string>-->
+
+
     <string-array name="gender_array">
         <item>Male</item>
         <item>FeMale</item>
     </string-array>
+    <string-array name="loginType_array">
+        <item>Admin</item>
+        <item>Customer</item>
+        <item>Employee</item>
+    </string-array>
+    <string name="title_activity_customer">CustomerActivity</string>
+    <string name="title_activity_employee_home">EmployeeHomeActivity</string>
+    <string name="title_activity_customer_home">CustomerHomeActivity</string>
+    <string name="title_activity_loan_details">LoanDetailsActivity</string>
+    <string name="title_activity_change_profile">ChangeProfileActivity</string>
+    <string name="send_to">meenakshiveera20@gmail.com</string>
+    <string name="title_activity_contact_for_loan">ContactForLoanActivity</string>
+    <string name="leave_comment">Thanks for  Using Our Application. Please Leave a Message and We will Contact you soon. </string>
+    <string name="title_activity_customer_about">CustomerAboutActivity</string>
+    <string name="title_activity_apply_loan">ApplyLoanActivity</string>
+
+
 </resources>
